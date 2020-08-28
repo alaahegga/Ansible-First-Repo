@@ -1,0 +1,8 @@
+servera.lab.example.com
+[webservers]
+server[b:d].lab.example.com
+[dbservers]
+servere.lab.example.com
+[riyadh:children]
+webservers
+dbsercers
